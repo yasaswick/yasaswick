@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yasaswick
+- 👋 Hi, I’m Yasas
 - 👀 I’m interested in - IoT, mobile app development
-- 🌱 I’m currently learning - Flask
+- 🌱 I’m currently learning - Flask / Expressjs
 - 💞️ I’m looking to collaborate on open-source and non profit software
 - 📫 How to reach me - find me on twitter @yasaswiki
 
